@@ -1,6 +1,6 @@
 <!--Intro Text-->
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070F3&size=24&height=35&lines=Hello%2C+I'm+Aqua22+👋;I+am+a+back-end+developer!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070F3&size=24&height=35&lines=Hello%2C+I'm+Aqua22+👋;I'm+somewhat+a+back-end+developer!)
 
 <br>
 
