@@ -21,8 +21,8 @@
     <td valign="center">
         ✹ My website is www.aqua22.hu<br>
         <!--✦ I’m currently learning Python, Java, Javascript 🌱 <br>-->
-        ❃ How to reach me: No.<br>
-        ✫  Pronouns: he/him 😄<br>
+        ❃ How to reach me: root@aqua22.hu<br>
+        ✫  Pronouns: he/him<br>
     </td>
     <!--<td>
         <img align="left" src="assets/macbook.svg" width="312px" heigth="188px" />
