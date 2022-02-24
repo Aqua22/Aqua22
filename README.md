@@ -19,9 +19,9 @@
 <table>
   <tr>
     <td valign="center">
-        ✹ My website is www.aqua22.hu<br>
+        ✹ My website is aqua22.hu<br>
         <!--✦ I’m currently learning Python, Java, Javascript 🌱 <br>-->
-        ❃ How to reach me: root@aqua22.hu<br>
+        ❃ How to reach me: hello@aqua22.hu<br>
         ✫  Pronouns: he/him<br>
     </td>
     <!--<td>
