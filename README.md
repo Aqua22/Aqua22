@@ -23,7 +23,7 @@
         <!--✦ I’m currently learning Python, Java, Javascript 🌱 <br>-->
       ❃ How to reach me: <a href="mailto://hello@aqua22.hu">hello@aqua22.hu</a><br>
         ✫  Pronouns: he/him<br>
-        ✹ You can support me on Ko-Fi: https://ko-fi.com/aqua22 (only paypal)
+        <!--✹ You can support me on Ko-Fi: https://ko-fi.com/aqua22 (only paypal)-->
     </td>
     <!--<td>
         <img align="left" src="assets/macbook.svg" width="312px" heigth="188px" />
