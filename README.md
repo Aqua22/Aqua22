@@ -22,7 +22,7 @@
         ✹ My website is <a href="https://aqua22.hu">aqua22.hu</a><br>
         <!--✦ I’m currently learning Python, Java, Javascript 🌱 <br>-->
       ❃ How to reach me: <a href="mailto://hello@aqua22.hu">hello@aqua22.hu</a><br>
-        ✫  Pronouns: he/him<br>
+        ✫  Pronouns: he/him 🏳️‍🌈<br>
         <!--✹ You can support me on Ko-Fi: https://ko-fi.com/aqua22 (only paypal)-->
     </td>
     <!--<td>
