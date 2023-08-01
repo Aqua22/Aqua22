@@ -38,19 +38,8 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=aqua22&show_icons=true&theme=radical" alt="aqua22" height="137px">
 
 <div>
-
-<a hfer="https://discord.com/users/756155013742460958" rel="nofollow">
   
  
 <!--# ⭐ Top repo
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/wikifox)-->
-
- <!--<hr>-->
-
-<!--Social badges-->
-
-<!--## ✌️ Me at the internet-->
-
-<!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:insert@email.here)-->
-<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aqua22)-->
