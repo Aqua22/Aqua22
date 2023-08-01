@@ -38,6 +38,8 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=aqua22&show_icons=true&theme=radical" alt="aqua22" height="137px">
 
 <div>
+
+<a hfer="https://discord.com/users/756155013742460958" rel="nofollow">
   
  
 <!--# ⭐ Top repo
