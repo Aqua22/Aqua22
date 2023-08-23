@@ -21,7 +21,7 @@
     <td valign="center">
         ✹ My website is <a href="https://aqua22.hu">aqua22.hu</a><br>
         <!--✦ I’m currently learning Python, Java, Javascript 🌱 <br>-->
-      ❃ How to reach me: <a href="mailto://hello@aqua22.hu">hello@aqua22.hu</a>, <a href="https://wetdry.world/@aqua22">Mastodon</a><br>
+      ❃ How to reach me: <a href="mailto://hello@aqua22.hu">hello@aqua22.hu</a>, <a href="https://c.im/@aqua22">Mastodon</a><br>
         ✫  Pronouns: he/him<br>
     </td>
     <!--<td>
