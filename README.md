@@ -1,45 +1,22 @@
-<!--Intro Text-->
+<h1 align="center">Hi 👋, I'm Aqua22</h1>
+<h3 align="center">An IT Student from Hungary</h3>
 
-<!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=6000&lines=Hi!+I'm++Aqua22+%F0%9F%91%8B;I+like+domains+and+websites.)](https://git.io/typing-svg) -->
+- 🌱 I’m currently learning **HTML, CSS**
 
-<br>
+- 👨‍💻 Check out my website at [aqua22.hu](aqua22.hu)
 
-<!--Skill badges-->
-<!--<div>
-  <code><img height="40" src="assets/bash.png"></code>
-  <code><img height="40" src="assets/cpp.png"></code>
-  <code><img height="40" src="assets/cs.png"></code>
-  <code><img height="40" src="assets/js.png"></code>
-  <code><img height="40" src="assets/python.png"></code>
-  <code><img height="40" src="assets/java-logo.png"></code>
-</div>
-<br><br>-->
+- 📫 How to reach me **hello@aqua22.hu**, <a href="https://c.im/@aqua22">**Mastodon**</a>
 
-<!--Content IDK bruh-->
-<table>
-  <tr>
-    <td valign="center">
-        ✹ My website is <a href="https://aqua22.hu">aqua22.hu</a><br>
-        <!--✦ I’m currently learning Python, Java, Javascript 🌱 <br>-->
-      ❃ How to reach me: <a href="mailto://hello@aqua22.hu">hello@aqua22.hu</a>, <a href="https://c.im/@aqua22">Mastodon</a><br>
-        ✫  Pronouns: he/him<br>
-    </td>
-    <!--<td>
-        <img align="left" src="assets/macbook.svg" width="312px" heigth="188px" />
-    </td>-->
-  </tr>
-</table>
+- ⚡ Fun fact **I am a furry.**
 
-<!--Github Stats-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aqua22of" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqua22of" height="30" width="40" /></a>
+</p>
 
-## 📊 My Github stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=aqua22&show_icons=true&theme=radical" alt="aqua22" height="137px">
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/aqua22"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aqua22" /></a></p><br><br>
 
-<div>
-  
- 
-<!--# ⭐ Top repo
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/wikifox)-->
