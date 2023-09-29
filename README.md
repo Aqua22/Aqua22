@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and Swedish**
 
-- 👨‍💻 Check out my website at [aqua22.hu](aqua22.hu)
+- 👨‍💻 Check out my website at [aqua22.hu](https://aqua22.hu)
 
 - 📫 How to reach me **hello@aqua22.hu**, <a href="https://c.im/@aqua22">**Mastodon**</a>
 
