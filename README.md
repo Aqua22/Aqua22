@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hello@aqua22.hu**, <a href="https://c.im/@aqua22">**Mastodon**</a>
 
-- ⚡ Fun fact **I am a furry.**
+<!-- - ⚡ Fun fact **I am a furry.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
