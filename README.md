@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqua22</h1>
 <h3 align="center">An IT Student from Hungary</h3>
 
-- 🌱 I’m currently learning **HTML, CSS **
+- 🌱 I’m currently learning **HTML, CSS**
 
 - 👨‍💻 Check out my website at [aqua22.hu](https://aqua22.hu)
 
